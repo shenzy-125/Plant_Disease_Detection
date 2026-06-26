@@ -50,5 +50,3 @@ model = load_model('best_model.keras')
 Python · TensorFlow/Keras · EfficientNetB0 · OpenCV · Scikit-Learn · Matplotlib
 
 ---
-
-**Author:** Your Name · B.Tech CSE · [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-username)
