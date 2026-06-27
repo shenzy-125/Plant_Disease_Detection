@@ -45,7 +45,15 @@ model = load_model('best_model.keras')
 
 ---
 
+## Web App
+
+A Streamlit app is included for interactive predictions. Upload a leaf image and get the predicted disease, confidence score, and treatment information.
+
+```bash
+streamlit run app.py
+```
+
 ## Tech Stack
-Python · TensorFlow/Keras · EfficientNetB0 · OpenCV · Scikit-Learn · Matplotlib
+Python · TensorFlow/Keras · EfficientNetB0 · OpenCV · Scikit-Learn · Matplotlib · Streamlit
 
 ---
