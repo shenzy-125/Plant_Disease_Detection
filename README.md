@@ -57,3 +57,7 @@ streamlit run app.py
 Python · TensorFlow/Keras · EfficientNetB0 · OpenCV · Scikit-Learn · Matplotlib · Streamlit
 
 ---
+
+## Future Work
+- App Deployment
+- Grad-CAM Implementation
